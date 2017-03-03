@@ -10,6 +10,8 @@ In general, faculty want to make sure material they wish to share is:
 
 * **Usable**. Material should be as open as possible. That means original files, like Word files, which can be more easily edited and modified than a PDF.
 
+* **Quality**. Faculty typically demand a high level of quality in their documents. Often this means peer review, but is not required.
+
 * **Licensed**. Make sure you indicate what can be done with the work and any restrictions you have, although the less restrictive the license, the better.
 *
 This class is hosted in [Canvas](http://www.instructure.com/try-canvas), a free platform that facilitates open classes. These modules are built in wikis, meaning they can be edited by anyone, or only by people with a certain role in the class. Anyone looking to create an entire class, might consider it as a host for materials.
